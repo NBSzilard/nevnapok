@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 from discord_webhook import DiscordWebhook
 
-nevnapok = ["Példa1", "Példa2"]
+nevnapok = ["Név1", "Név2"]
 
 webhookurl = "WEBHOOK_URL"
 
